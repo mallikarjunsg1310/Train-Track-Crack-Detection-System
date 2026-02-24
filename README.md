@@ -77,7 +77,7 @@ This ensures real-time monitoring and rapid response.
 
 # 📊 Block Diagram
 
-![Block Diagram](Images/BlockDiagram.png)
+![Block Diagram](Images/BlockDiagram.PNG)
 
 The block diagram illustrates the interaction between sensors, Arduino controller, communication modules, and motor control system.
 
@@ -85,7 +85,7 @@ The block diagram illustrates the interaction between sensors, Arduino controlle
 
 # 🚗 Project Prototype
 
-![Prototype](Images/Prototype.jpg)
+![Prototype](Images/Prototype.png)
 
 The prototype consists of a wheeled inspection rover built on a stable base platform with all modules mounted securely.
 
@@ -93,7 +93,7 @@ The prototype consists of a wheeled inspection rover built on a stable base plat
 
 # 📩 SMS Alert Output
 
-![SMS Alert](Images/SMSAlert.jpg)
+![SMS Alert](Images/SMSAlert.png)
 
 When a crack is detected, an SMS alert is sent containing:
 - Type of fault
@@ -103,8 +103,9 @@ When a crack is detected, an SMS alert is sent containing:
 
 # 🔍 Crack Detection Output
 
-![Left Crack](Images/LeftCrack.jpg)
-![Right Crack](Images/RightCrack.jpg)
+![Left Crack](Images/LeftCrack.png)
+
+![Right Crack](Images/RightCrack.png)
 
 The LCD displays messages such as:
 - “Left Side Crack Detected”
